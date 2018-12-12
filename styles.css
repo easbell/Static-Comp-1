@@ -149,42 +149,42 @@ article {
 
 .card3 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
-  url('images/jim.png');
+  url('images/Jim.png');
   background-size: cover;
   background-position: right;
 }
 
 .card4 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
-  url('images/pam.png');
+  url('images/Pam.png');
   background-size: cover;
   background-position: right;
 }
 
 .card5 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
-  url('images/stanley.png');
+  url('images/Stanley.png');
   background-size: cover;
   background-position: right;
 }
 
 .card6 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
-  url('images/creed.png');
+  url('images/Creed.png');
   background-size: cover;
   background-position: right;
 }
 
 .card7 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
-  url('images/kevin.png');
+  url('images/Kevin.png');
   background-size: cover;
   background-position: right;
 }
 
 .card8 {
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), 
-  url('images/kelly.png');
+  url('images/Kelly.png');
   background-size: cover;
   background-position: right;
 }
